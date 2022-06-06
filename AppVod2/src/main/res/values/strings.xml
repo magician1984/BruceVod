@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppVod2</string>
+
+    <string name="status_home">首頁</string>
+
+    <string name="status_service">服務</string>
+
+    <string name="status_foods">點餐</string>
+
+    <string name="status_language">語系</string>
+</resources>
